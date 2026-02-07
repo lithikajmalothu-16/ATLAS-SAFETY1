@@ -4,3 +4,4 @@ node_modules/
 .next/
 dist/
 build/
+backend/service-account-key.json
